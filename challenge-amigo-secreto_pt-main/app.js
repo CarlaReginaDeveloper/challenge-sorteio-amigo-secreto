@@ -14,7 +14,7 @@ function adicionarAmigo() {
   } else if (listaDeAmigos.includes(nomeAdicionado)) {
     //Verifica se já tem um nome igual na lista e pede para o usuário digitar o sobrenome para diferenciar
     alert(
-      "Atenção!!\nNome digitado já incluído. Por favor, digite outro nome.\nCaso nome seja o mesmo, digite o sobrenome: \nEX: JOAO HENRIQUE"
+      "Atenção!!\nNome digitado já incluído. Por favor, digite outro nome.\nCaso o nome seja igual, digite o sobrenome:\nEX: JOAO HENRIQUE"
     );
   } else {
     listaDeAmigos.push(nomeAdicionado);
