@@ -24,8 +24,11 @@ git clone https://github.com/CarlaReginaDeveloper/challenge-sorteio-amigo-secret
 ```
 
 ## 📷 Captura de Tela
-![imagem do projeto: nome do projeto, uma pessoa, logo abaixo com os campos de inserir nome, sortear e reiniciar] <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c730e5e2-95c2-429c-8543-26a1301a2327" />
+![imagem do projeto: nome do projeto, uma pessoa, logo abaixo com os campos de inserir nome, sortear e reiniciar] <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c730e5e2-95c2-429c-8543-26a1301a2327" />
 
+## 💻 Demonstração do Projeto
+
+![Demonstração do Projeto](./assets/demo.gif)
 
 ## 📚 Sobre o Projeto
 Este projeto foi desenvolvido para praticar:
